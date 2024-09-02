@@ -146,5 +146,7 @@ class Control:
 
 control = Control()
 banda = control.crearBanda()
-banda.hacerTocar() 
-banda.hacerAfinar() 
+print("\nTocar instrumentos: ")
+banda.hacerTocar()
+print("\nAfinación de instrumentos: ")
+banda.hacerAfinar()
