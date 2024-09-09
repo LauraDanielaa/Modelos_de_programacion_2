@@ -6,6 +6,9 @@ En este repositorio se encuentra el primer taller del curso de Modelos de progra
 - Laura Ximena Flechas Ochoa - 20221020023
 - Laura Daniela Muñoz Ipus - 20221020022
 
+### Curso 
+Modelos de programación 2 
+
 ### Descripción del taller 1
 Se desea conformar una banda con multiples músicos, para esto, una persona (director de banda) va a ser el encargado de conseguir cada músico y que se le sea asignado un instrumento. Cuando todos los músicos tengan sus instrumentos y este organizada la banda podrán realizar una afinación como un ensayo y después podrán tocar de manera formal y coordinada 
 
